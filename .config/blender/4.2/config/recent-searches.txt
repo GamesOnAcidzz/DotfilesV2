@@ -1,0 +1,34 @@
+0 Run
+  NurbsPath
+  Lattice
+  door_lattice
+   Skin
+   Table
+   White
+   Black.001
+ 0 pngwing.com.png
+   pngwing.com.png
+   Render Result
+   pngwing.com(1).png
+   Body3
+   Body2
+   Coat
+   Black
+   Pants
+0 Idle.001
+  Cleanig1
+0 Waiting
+  Idle.001
+0 Talking
+  Walk
+  Waiting
+  Talking
+  Null
+  Idle
+  Cleaning
+  BézierCurve
+
+   Windows
+   Body
+ 0 Wheels
+   Blacks

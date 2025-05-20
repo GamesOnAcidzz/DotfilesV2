@@ -1,0 +1,66 @@
+0 Run
+  NurbsPath
+  door_lattice
+   Table
+   White
+   Black.001
+ 0 pngwing.com.png
+   pngwing.com.png
+   Render Result
+   pngwing.com(1).png
+   Body3
+   Body2
+   Coat
+   Pants
+0 Idle.001
+  Cleanig1
+0 Waiting
+  Idle.001
+0 Talking
+  Waiting
+  Null
+
+   Windows
+   Body
+ 0 Wheels
+   Dress
+ 0 Dress.001
+   Dress.001
+   Skin
+   Wool
+  Talking
+  Cleaning
+  Storing
+0 Counting
+ 0 Wall.001
+   Wall.001
+   Bulb
+   Deco_1
+   Deco_2
+   Transparent
+   Black
+   wood_4.png
+   Wall
+   DoorMat1
+   Wood
+   Face.png
+   Jacket
+   Blacks
+   Material
+   Whites
+  Run
+  Walk
+0 Landing
+  OnAir
+  HoldGun
+  HoldRightGun.001
+0 DoubleJump
+  Idle
+  SideRight
+0 SideLeft
+  SideLeft
+0 SideFront
+  SideFront
+0 SideFrontLeft
+  BézierCurve
+  Lattice

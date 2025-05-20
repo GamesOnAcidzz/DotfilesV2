@@ -1,0 +1,2 @@
+/home/acidzz/crying-ghosts/Crying-Ghosts-Project/Characters/Player/vin.blend
+/home/acidzz/GodotProjects/Project_Crying_Ghosts/Crying-Ghosts/Blender/vin.blend

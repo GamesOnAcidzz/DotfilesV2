@@ -1,0 +1,12 @@
+[Bookmarks]
+[Recent]
+/home/acidzz/GodotProjects/Project_Crying_Ghosts/Crying-Ghosts/Blender/
+/home/acidzz/a-sheep-in-the-city/Textures/Wood/
+/home/acidzz/a-sheep-in-the-city/Textures/Fabric/
+/home/acidzz/a-sheep-in-the-city/Levels/Motel/
+/home/acidzz/a-sheep-in-the-city/Models/Mary Lu/
+/home/acidzz/Documents/A Sheep in the City Assets/
+/home/acidzz/a-sheep-in-the-city/Vehicles/
+/home/acidzz/a-sheep-in-the-city/Levels/
+/home/acidzz/a-sheep-in-the-city/Models/Sleezy Joe/
+/home/acidzz/Downloads/

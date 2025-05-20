@@ -1,0 +1,4 @@
+[Bookmarks]
+[Recent]
+/home/acidzz/crying-ghosts/Crying-Ghosts-Project/Characters/Player/
+/home/acidzz/GodotProjects/Project_Crying_Ghosts/Crying-Ghosts/Blender/

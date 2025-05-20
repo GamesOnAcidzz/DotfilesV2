@@ -1,0 +1,11 @@
+[Bookmarks]
+[Recent]
+/home/acidzz/a-sheep-in-the-city/Vehicles/
+/home/acidzz/a-sheep-in-the-city/Levels/Motel/
+/home/acidzz/a-sheep-in-the-city/Levels/
+/home/acidzz/Documents/A Sheep in the City Assets/
+/home/acidzz/a-sheep-in-the-city/Models/Sleezy Joe/
+/home/acidzz/Downloads/
+/home/acidzz/a-sheep-in-the-city/Assets/Bar/
+/home/acidzz/a-sheep-in-the-city/Assets/Streets/
+/home/acidzz/a-sheep-in-the-city/Models/Player/

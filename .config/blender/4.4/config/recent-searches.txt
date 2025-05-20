@@ -1,0 +1,6 @@
+  Jump
+  OnAir
+  Idle
+0 Landing
+  Landing
+  DoubleJump

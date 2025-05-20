@@ -1,0 +1,20 @@
+/home/acidzz/GodotProjects/Project_Crying_Ghosts/Crying-Ghosts/Blender/katana.blend
+/home/acidzz/GodotProjects/Project_Crying_Ghosts/Crying-Ghosts/Blender/vin.blend
+/run/media/acidzz/D4DC4304DC42DFFA/UE4 Assets/Blender practice/butcher.blend1
+/run/media/acidzz/D4DC4304DC42DFFA/UE4 Assets/Blender practice/astronaut_texture.blend1
+/run/media/acidzz/D4DC4304DC42DFFA/Models/truck.blend
+/run/media/acidzz/D4DC4304DC42DFFA/Models/pistol_paint.blend
+/run/media/acidzz/D4DC4304DC42DFFA/Blender_backup/MrZucciniZoo_Blender/Gadgets/Net.blend1
+/run/media/acidzz/D4DC4304DC42DFFA/Blender_backup/MrZucciniZoo_Blender/Gadgets/Net.blend
+/run/media/acidzz/D4DC4304DC42DFFA/Blender_backup/MrZucciniZoo_Blender/Gadgets/Net_2.blend
+/run/media/acidzz/D4DC4304DC42DFFA/Godot_projects/Blender/3amProject/Blender/Characters/vin_new_style_anim_v2.blend
+/run/media/acidzz/D4DC4304DC42DFFA/Godot_projects/Blender/3amProject/Blender/Characters/Vin/Vin_3.blend
+/run/media/acidzz/D4DC4304DC42DFFA/Models/pistol_paint.blend1
+/run/media/acidzz/D4DC4304DC42DFFA/Models/robot.blend1
+/home/acidzz/a-sheep-in-the-city/Levels/Motel/motel.blend
+/home/acidzz/a-sheep-in-the-city/Models/Mary Lu/MaryLu.blend
+/home/acidzz/Downloads/Sheep_character.blend
+/home/acidzz/Documents/A Sheep in the City Assets/untitled.blend
+/home/acidzz/Documents/A Sheep in the City Assets/level.blend
+/home/acidzz/a-sheep-in-the-city/Vehicles/player_car.blend
+/home/acidzz/a-sheep-in-the-city/Assets/Bar/bar.blend
